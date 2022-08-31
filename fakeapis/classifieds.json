@@ -1,0 +1,312 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "classifiedTypeId": 0,
+      "userId": 0,
+      "motoModelId": 2,
+      "images": ["h1.jpg", "h2.jpg"],
+      "price": 300000,
+      "currency": "RUB",
+      "issue": 1990,
+      "mileage": 50000,
+      "power": 70,
+      "enginCapacity": 648,
+      "characteristic": "Honda VF750C Super Magna: круизер, 1987–1989, 648 см³, 70 л.с.",
+      "description": "Своевременное техническое обслуживание. Посреднические услуги не предлагать. Не требует дополнительных вложений. Торг возможен при осмотре. Готов к эксплуатации."
+    },
+    {
+      "id": 1,
+      "classifiedTypeId": 0,
+      "userId": 1,
+      "motoModelId": 3,
+      "images": [
+        "t1.jpg",
+        "t2.jpg",
+        "t3.jpg",
+        "t4.jpg",
+        "t5.jpg",
+        "t6.jpg",
+        "t7.jpg"
+      ],
+      "price": 1000000,
+      "currency": "RUB",
+      "issue": 2020,
+      "mileage": 5000,
+      "power": 77,
+      "enginCapacity": 1200,
+      "characteristic": "Двигатель 1200 см 3, 4-тактный, 2-цилиндровый, рядный, 77/6100 л.с. Привод — цепь.",
+      "description": "Triumph bonneville bobber black, 2020г, пробег 5000 км, объём 1200, чёрный матовый, приобретён у оф.дилера granmoto, дополнительно установлены: все поворотники, боковой держатель номера, клипоны, накладки, заглушки и крышки, дуги, поменян выхлоп, сиденье, боковая сумка, зеркала, переднее крыло. Все стоковое отдам в подарок. Мот в отличном состоянии, без дефектов, без дтп, полностью обслужен у оф.дилера и готов к сезону"
+    },
+    {
+      "id": 2,
+      "classifiedTypeId": 0,
+      "userId": 2,
+      "motoModelId": 4,
+      "images": [
+        "hd1.jpg",
+        "hd2.jpg",
+        "hd3.jpg",
+        "hd4.jpg",
+        "hd5.jpg",
+        "hd6.jpg",
+        "hd7.jpg",
+        "hd8.jpg"
+      ],
+      "price": 2250000,
+      "currency": "RUB",
+      "issue": 2022,
+      "mileage": 2000,
+      "power": 97,
+      "enginCapacity": 1868,
+      "characteristic": "Двигатель: 1868 см³ / 97 л.с. Инжектор. Цилиндров 2/V-образное. Тактов 4. 6 передач. Привод Ремень",
+      "description": "Продаю практически новый мот в идеальном состоянии. Куплен в прошлом году за наличный расчёт. Стоит на учете. После покупки все крашеные элементы затянуты в пленку: крылья, бак, боковые панели. Дополнительно на мотоцикл установлено: - крепления под кофры 2 шт; - кофры оригинальные 2 шт; - квикшифтер; - ручки руля с подогревом; - датчики давления в шинах; - дополнительное сидение от GT версии с комплектом спинки для пассажира. Фирменный рюкзак в подарок."
+    },
+    {
+      "id": 3,
+      "classifiedTypeId": 0,
+      "userId": 3,
+      "motoModelId": 5,
+      "images": ["min1.jpg", "min2.jpg", "min3.jpg"],
+      "price": 250000,
+      "currency": "RUB",
+      "issue": 2021,
+      "mileage": 12000,
+      "power": 97,
+      "enginCapacity": 1868,
+      "characteristic": "Мотоцикл с ПТС и гарантией.",
+      "description": "Эксклюзивный мотоцикл в наличии! Легенда Минского мотоциклетно-велосипедного завода. Прошел комплексную техническую диагностику и предпродажную проверку. Гарантия юридической чистоты, полный комплект ключей и документов, состояние нового мотоцикла ( без эксплуатации ). Мотоцикл готов к продаже, документы нового образца."
+    },
+    {
+      "id": 4,
+      "classifiedTypeId": 0,
+      "userId": 4,
+      "motoModelId": 6,
+      "images": ["suz1.jpg", "suz2.jpg"],
+      "price": 200000,
+      "currency": "RUB",
+      "issue": 1989,
+      "mileage": 37000,
+      "power": 63,
+      "enginCapacity": 747,
+      "characteristic": "Тип: чоппер. Объем двигателя: 699/747 см³. Максимальная мощность: 63/55 л.с. КПП: механика 5 ступенчатая. Сухая масса: 192 кг. Клиренс: 130 мм Высота по седлу: 830 мм",
+      "description": "Пора уже сесть на мотоцикл и уехать в закат. Сузуки Интрудер, 800 кубов злости. Проведена предсезонная подготовка: замена масла, свечей, фильтров. Резина не изношена, сиденья новые. С места рвет, дорогу держит. Зимой хранился в теплом боксе. Звоните, приезжайте смотреть."
+    },
+    {
+      "id": 5,
+      "classifiedTypeId": 0,
+      "userId": 5,
+      "motoModelId": 8,
+      "images": ["yam1.jpg", "yam2.jpg", "yam3.jpg"],
+      "price": 300000,
+      "currency": "RUB",
+      "issue": 1995,
+      "mileage": 26000,
+      "power": 62,
+      "enginCapacity": 1063,
+      "characteristic": "Тип: Чоппер/круизер.Объем двигателя: 1063 см³ Максимальная мощность: 62 л.с. КПП: механика 5 ступенчатая. Снаряженная масса: 260 кг. Высота по седлу: 690 мм",
+      "description": "Мотоцикл принят по программе трейд-ин в зачет нового мотоцикла. Yamaha XVS 650 Drag Star. В отличном внешнем и техническом состоянии. Полный кастом (светодиодная фара, выхлоп, руль, подножки, седло и много различного доп оборудования) Новая резина, мотоцикл полностью подготовлен к сезону."
+    },
+
+    {
+      "id": 6,
+      "classifiedTypeId": 1,
+      "userId": 0,
+      "images": ["o1.jpg"],
+      "name": "Tires Super Magna",
+      "price": 34.99,
+      "currency": "USD",
+      "issue": 2022,
+      "mileage": 0,
+      "characteristic": "185/65 R15 LT",
+      "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 7,
+      "classifiedTypeId": 1,
+      "userId": 1,
+      "images": ["o2.jpg"],
+      "name": "Wheels Tires Cool",
+      "price": 39.99,
+      "currency": "USD",
+      "issue": 2020,
+      "mileage": 5000,
+      "characteristic": "LT 185/65 R15",
+      "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 8,
+      "classifiedTypeId": 1,
+      "userId": 2,
+      "images": ["o2.jpg"],
+      "name": "Moto Wheels Faire",
+      "price": 78.99,
+      "currency": "USD",
+      "issue": 2022,
+      "mileage": 0,
+      "characteristic": "P 185/65 R15",
+      "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 9,
+      "classifiedTypeId": 1,
+      "userId": 3,
+      "images": ["o1.jpg"],
+      "name": "Bubble Tires Jocker",
+      "price": 52.99,
+      "currency": "USD",
+      "issue": 2021,
+      "mileage": 0,
+      "characteristic": "185/65 R15 C",
+      "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 10,
+      "classifiedTypeId": 1,
+      "userId": 4,
+      "images": ["o1.jpg"],
+      "name": "Tires Super Magna",
+      "price": 34.99,
+      "currency": "USD",
+      "issue": 1900,
+      "mileage": 599999,
+      "characteristic": "ST 185/65 R15",
+      "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 11,
+      "classifiedTypeId": 1,
+      "userId": 5,
+      "images": ["o2.jpg"],
+      "name": "Moto Wheels of Faire",
+      "price": 78.99,
+      "currency": "USD",
+      "issue": "1995 year of issue",
+      "mileage": "20 000 000 kilometers",
+      "characteristic": "ou shield of the motherfucker",
+      "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 12,
+      "classifiedTypeId": 2,
+      "userId": 0,
+      "images": [
+        "calib_dvig01.jpg",
+        "calib_dvig02.jpg",
+        "calib_dvig03.jpeg",
+        "calib_dvig04.jpg"
+      ],
+      "name": "Калибровка двигателя",
+      "price": 12000,
+      "currency": "RUB",
+      "issue": "с 10.00 до 20.00",
+      "mileage": "предварительная запись",
+      "characteristic":
+        "Калибровка двигателя, особенно нестандартной конфигурации – творческий процесс и к нему нужно как следует подготовиться. В этой статье будут рассматриваться инструментальные методы работы.",
+      "description":
+        "1. Инженерный блок J5 On-Line Tuner (или J7 On-Line Tuner. А лучше – оба). 2. Контроллер ШДК или, для совсем начинающих, какой-нибуть показометр-альфометр. 3. Адаптер K‑Line или USB Host, если у Вас J5 On-Line Tuner 2"
+    },
+    {
+      "id": 13,
+      "classifiedTypeId": 2,
+      "userId": 1,
+      "images": [
+        "evac01.jpg", 
+        "evac02.jpg", 
+        "evac03.jpg"
+      ],
+      "name": "Мотоэвакуация",
+      "price": 3000,
+      "currency": "RUB",
+      "issue": "круглосуточно",
+      "mileage": "условия у диспетрчера",
+      "characteristic":
+        "1. если мотоцикл требуется доставить на выставку или мотосалон, сохранив его презентабельный облик; 2. доставка к месту соревнований, особенно в случае если она осуществляется на дальние расстояния; 3. если необходима одновременная транспортировка нескольких машин; 4. в случае поломки мотоцикла в дороге; 5. в случае ДТП — служба мотоэвакуации в этом случае может не только осуществить перевозку транспорта, но и зачастую берется за подготовку пакета документов для компаний страхования; 6. в ситуации, когда мотоцикл приобретен в зимнее время и нет возможности добраться до места своим ходом из-за сложных погодных условий.",
+      "description":
+        "Мотоэвакуатором управляют опытные водители, которые имеют опыт погрузки-выгрузки техники, а также транспортировки разных моделей мотоциклов с различными неисправностями. Мотоэвакуаторы приспособлены для транспортировки сразу нескольких единиц техники одновременно."
+    },
+    {
+      "id": 14,
+      "classifiedTypeId": 2,
+      "userId": 2,
+      "images": [
+        "import01.jpg", 
+        "import02.jpeg", 
+        "import03.jpg"
+      ],
+      "name": "Импорт мотоциклов",
+      "price": 1000,
+      "currency": "USD",
+      "issue": "years of issue from orders",
+      "mileage": "differents",
+      "characteristic":
+        "Российский рынок мотоциклов зависит от импорта. Основными поставщиками этой техники являются японские, китайские, британские, шведские и американские компании. Россия как производитель мотоциклов в последние 20 лет сильно сдала, и рынок был быстро занят машинами иностранного производства.",
+      "description":
+        "В целом, импорт мотоциклов в Россию находится на приличном уровне и перспективы роста есть. Скорее всего, в будущем будут увеличиваться объемы поставок недорогих китайских машин, а поставки дорогих европейских, американских и японских мотоциклов будут снижаться."
+    },
+    {
+      "id": 15,
+      "classifiedTypeId": 2,
+      "userId": 3,
+      "images": [
+        "serv-carb01.jpg", 
+        "serv-carb02.jpg"
+      ],
+      "name": "Ремонт мотокарбюратора",
+      "price": 3200,
+      "currency": "RUB",
+      "issue": "c 8.00 do 18.00",
+      "mileage": "from orders",
+      "characteristic":
+        "Вакуумный карбюратор для четырёхтактного двигателя мотоцикла. 1 — полость диффузора, 2 — резиновая мембрана, 3 — пружина дроссельного золотника, 4 — дроссельный золотник, 5 — игла, 6 — поворотная дроссельная заслонка, 7 трубка распылителя, 8 — главный жиклер, 9 — поплавок, 10 — игольчатый клапан.",
+      "description":
+        "Карбюратор мотоцикла одна из важнейших деталей двигателя и главная деталь системы питания, и от него зависит нормальная работа мотора. И вместе с правильно настроенной системой зажигания, только исправный и правильно настроенный карбюратор, обеспечит нормальную работу двигателя. Правильная настройка карбюратора очень важна, так как при неправильном соотношении количества воздуха к количеству топлива, двигатель нормально работать не будет, и возможен даже прогар поршней (при сильно обеднённой смеси). В этой статье мы рассмотрим устройство, принцип работы, основные неисправности мотоциклетного карбюратора и его настройку, что позволит новичкам самостоятельно добиться нормальной работы двигателя."
+    },
+    {
+      "id": 16,
+      "classifiedTypeId": 2,
+      "userId": 4,
+      "images": [
+        "serv01.jpg", 
+        "serv02.jpg", 
+        "serv03.jpg"
+      ],
+      "name": "Мото Шиномонтаж",
+      "price": 200,
+      "currency": "RUB",
+      "issue": "с 8.00 до 22.00",
+      "mileage": "в пределах 1 000 метров от метро",
+      "characteristic":
+        "замена передних колес, замена заднего колеса, установка новых шин, полный демонтаж, балансировка разных видов литых колесных дисков, балансировка дисков со спицами, монтаж камеры, подкачка шин при помощи озота и других материалов, демонтаж кофров, утилизация неисправных шин, полная замена колес.",
+      "description":
+        "Все эти работы выполняются исходя из потребности. Они не выполняются обычно в комплексе, если этого не нужно. Для каждого индивидуального случая мастера подбирают те услуги, которые необходимы. Стоимость выполненной работы зависит от уровня сложности. В целом все перечисленные услуги имеют различную стоимость. Комплексные работы по шиномонтажу являются самыми сложными. Они могут иметь стоимость от двух тысяч рублей. К самым дешевым шиномонтажным видам работ относятся разные виды балансировки. Цены на них в некоторых шиномонтажных мастерских начинаются от 200 рублей."
+    },
+    {
+      "id": 17,
+      "classifiedTypeId": 2,
+      "userId": 5,
+      "images": [
+        "tuning01.jpg",
+        "tuning02.jpg",
+        "tuning03.jpg",
+        "tuning04.jpg",
+        "tuning05.jpg"
+      ],
+      "name": "Тюнинг мотоэлементов",
+      "price": 0,
+      "currency": "RUB",
+      "issue": "сроки: по согласованию",
+      "mileage": "предварительные условия при встрече",
+      "characteristic":
+        "В специализированных салонах наружный тюнинг мотоцикла начинается с 3D-проектирования и включает в себя: установку ксенона и других световых приборов; обвес крузеров и чопперов; установку аудиосистем и трайк-китов; покраску; замену ручек, зеркал, наклеек, обтекателей.",
+      "description":
+        "Существует всего два вида тюнинга мотоциклов – это изменения внешнего образа, электрики, и внутреннее вмешательство в двигатель и ходовую часть. Переделкам подвергаются не только новые модели зарубежного производства. Например, тюнинг мотоцикла «Урал» – уже привычное явление для большинства россиян. Это мощная техника с хорошей проходимостью, поэтому изменяется обычно только внешний вид."
+    }
+  ]
+}

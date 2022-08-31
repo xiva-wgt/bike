@@ -1,0 +1,7 @@
+{
+  "data": [
+    { "id": 0, "name": "Cardan" },
+    { "id": 1, "name": "Chain" },
+    { "id": 2, "name": "Belt" }
+  ]
+}

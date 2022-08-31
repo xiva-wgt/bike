@@ -1,0 +1,59 @@
+{
+  "data": [
+    { "id": 0, "name": "Aprilia", "logo": "Aprilia.png", "company": "" },
+    { "id": 1, "name": "BMW", "logo": "BMW.png", "company": "" },
+    { "id": 2, "name": "Bajaj", "logo": "Bajaj.png", "company": "" },
+    { "id": 3, "name": "Baltmotors", "logo": "Baltmotors.png", "company": "" },
+    { "id": 4, "name": "Can-Am", "logo": "Can-Am.png", "company": "" },
+    { "id": 5, "name": "Derbi", "logo": "Derbi.png", "company": "" },
+    { "id": 6, "name": "Ducati", "logo": "Ducati.png", "company": "" },
+    { "id": 7, "name": "Gilera", "logo": "Gilera.png", "company": "" },
+    {
+      "id": 8,
+      "name": "Harley-Davidson",
+      "logo": "Harley-Davidson.png",
+      "company": ""
+    },
+    { "id": 9, "name": "Honda", "logo": "Honda.png", "company": "" },
+    { "id": 10, "name": "Husqarna", "logo": "Husqarna.png", "company": "" },
+    { "id": 11, "name": "Indian", "logo": "Indian.png", "company": "" },
+    { "id": 12, "name": "KTM", "logo": "KTM.png", "company": "" },
+    { "id": 13, "name": "Kawasaki", "logo": "Kawasaki.png", "company": "" },
+    { "id": 14, "name": "Kymco", "logo": "Kymco.png", "company": "" },
+    { "id": 15, "name": "Moto Guzzi", "logo": "Moto_Guzzi.png", "company": "" },
+    { "id": 16, "name": "Piaggio", "logo": "Piaggio.png", "company": "" },
+    {
+      "id": 17,
+      "name": "Royal Enfield",
+      "logo": "Royal_Enfield.png",
+      "company": ""
+    },
+    { "id": 18, "name": "SYM", "logo": "SYM.png", "company": "" },
+    { "id": 19, "name": "Sachs", "logo": "Sachs.png", "company": "" },
+    { "id": 20, "name": "Stels", "logo": "Stels.png", "company": "" },
+    { "id": 21, "name": "Suzuki", "logo": "Suzuki.png", "company": "" },
+    { "id": 22, "name": "Triumph", "logo": "Triumph.png", "company": "" },
+    { "id": 23, "name": "Vespa", "logo": "Vespa.png", "company": "" },
+    { "id": 24, "name": "Victory", "logo": "Victory.png", "company": "" },
+    { "id": 25, "name": "Yamaha", "logo": "Yamaha.png", "company": "" },
+    { "id": 26, "name": "Zero", "logo": "Zero.png", "company": "" },
+    {
+      "id": 27,
+      "name": "Minsk",
+      "logo": "Minsk.png",
+      "company": "ОАО \"МотоВелоЗавод\""
+    },
+    {
+      "id": 28,
+      "name": "Ural",
+      "logo": "Ural.png",
+      "company": "Ирбитский мотоциклетный завод"
+    },
+    {
+      "id": 29,
+      "name": "IZH",
+      "logo": "IZH.png",
+      "company": "ОАО «Ижевские мотоциклы»"
+    }
+  ]
+}

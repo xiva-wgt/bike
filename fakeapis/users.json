@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "avatar": "1.jpg",
+      "firstName": "Jonny",
+      "lastName": "Cash",
+      "contact": "+7(981)4264874",
+      "city": "Jenkintown",
+      "address": "Jenkintown, PA 19046",
+      "offerTypeId": 0,
+      "raiting": 3
+    },
+    {
+      "id": 1,
+      "avatar": "2.jpg",
+      "firstName": "Sam",
+      "lastName": "Stanley",
+      "contact": "+7(921)9835709",
+      "city": "Alhambra",
+      "address": "Alhambra, CA 91801",
+      "offerTypeId": 1,
+      "raiting": 4
+    },
+    {
+      "id": 2,
+      "avatar": "3.jpg",
+      "firstName": "Ivan",
+      "lastName": "Drago",
+      "contact": "+7(900)0095788",
+      "city": "Shelby",
+      "address": "Shelby, MI 49455",
+      "offerTypeId": 0,
+      "raiting": 5
+    },
+    {
+      "id": 3,
+      "avatar": "4.jpg",
+      "firstName": "Rockee",
+      "lastName": "Bolboa",
+      "contact": "+7(911)6643544",
+      "city": "Charlotte",
+      "address": "Charlotte, NC 28213",
+      "offerTypeId": 1,
+      "raiting": 3
+    },
+    {
+      "id": 4,
+      "avatar": "5.jpg",
+      "firstName": "Jan",
+      "lastName": "Clode Van Damm",
+      "contact": "+7(921)9099734",
+      "city": "Liverpool",
+      "address": "Liverpool, NY 13088",
+      "offerTypeId": 0,
+      "raiting": 4
+    },
+    {
+      "id": 5,
+      "avatar": "6.jpg",
+      "firstName": "Boris",
+      "lastName": "Yeltcin",
+      "contact": "+7(901)2388431",
+      "city": "Eagle",
+      "address": "Eagle, ID 83642",
+      "offerTypeId": 1,
+      "raiting": 5
+    },
+    {
+      "id": 6,
+      "avatar": "7.jpg",
+      "firstName": "Shaltai",
+      "lastName": "Boltai",
+      "contact": "+7(901)7778777",
+      "city": "Saint Peterburg",
+      "address": "Saint Peterburg, ID 83642",
+      "offerTypeId": 0,
+      "raiting": 3
+    },
+    {
+      "id": 6,
+      "avatar": "7.jpg",
+      "firstName": "Kot",
+      "lastName": "Matroskin",
+      "contact": "+7(901)8889888",
+      "city": "Voronez",
+      "address": "Voronez, ID 83642",
+      "offerTypeId": 1,
+      "raiting": 4
+    }
+  ]
+}

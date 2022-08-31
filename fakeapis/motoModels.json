@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "motoTypeIds": [0],
+      "motoBrandId": 29,
+      "name": "Планета-5",
+      "motoDriveId": 1
+    },
+    {
+      "id": 1,
+      "motoTypeIds": [0, 4],
+      "motoBrandId": 9,
+      "name": "Волк",
+      "motoDriveId": 0
+    },
+    {
+      "id": 2,
+      "motoTypeIds": [0],
+      "motoBrandId": 9,
+      "name": "Magna VF750c",
+      "motoDriveId": 1
+    },
+    {
+      "id": 3,
+      "motoTypeIds": [4],
+      "motoBrandId": 22,
+      "name": "Bonneville Bobber",
+      "motoDriveId": 1
+    },
+    {
+      "id": 4,
+      "motoTypeIds": [4],
+      "motoBrandId": 8,
+      "name": "Street Bob",
+      "motoDriveId": 1
+    },
+    {
+      "id": 5,
+      "motoTypeIds": [4],
+      "motoBrandId": 27,
+      "name": "C4 300",
+      "motoDriveId": 1
+    },
+    {
+      "id": 6,
+      "motoTypeIds": [4],
+      "motoBrandId": 21,
+      "name": "Intruder VS 750",
+      "motoDriveId": 1
+    },
+    {
+      "id": 7,
+      "motoTypeIds": [4],
+      "motoBrandId": 21,
+      "name": "Intruder VS 750",
+      "motoDriveId": 1
+    },
+    {
+      "id": 8,
+      "motoTypeIds": [4],
+      "motoBrandId": 25,
+      "name": "XVS 1100 Drag Star",
+      "motoDriveId": 1
+    }
+  ]
+}

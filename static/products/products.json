@@ -1,0 +1,84 @@
+    [
+      {
+        "id": 0,
+        "avatar": "o3.jpg",
+        "images": ["h1.jpg", "h2.jpg"],
+        "name": "Honda Super Magna",
+        "price": "300 000 rub",
+        "issue": "1990 year of issue",
+        "mileage": "50 000 kilometers",
+        "description":
+          "Honda VF750C Super Magna: круизер, 1987–1989, 648 см³, 70 л.с."
+      },
+      {
+        "id": 1,
+        "avatar": "o4.jpg",
+        "images": [
+          "t1.jpg",
+          "t2.jpg",
+          "t3.jpg",
+          "t4.jpg",
+          "t5.jpg",
+          "t6.jpg",
+          "t7.jpg"
+        ],
+        "name": "Triumph Bonneville Bobber",
+        "price": "1 000 000 rub",
+        "issue": "2020 year of issue",
+        "mileage": "5 000 kilometers",
+        "description":
+          "Двигатель 1200 см 3, 4-тактный, 2-цилиндровый, рядный, 77/6100 л.с. Привод — цепь."
+      },
+      {
+        "id": 2,
+        "avatar": "o5.jpg",
+        "images": [
+          "hd1.jpg",
+          "hd2.jpg",
+          "hd3.jpg",
+          "hd4.jpg",
+          "hd5.jpg",
+          "hd6.jpg",
+          "hd7.jpg",
+          "hd8.jpg"
+        ],
+       "name": "Harley-Davidson Street Bob",
+        "price": "2 250 000 rub",
+        "issue": "2022 year of issue",
+        "mileage": "2 000 kilometers",
+        "description":
+          "Двигатель: 1868 см³ / 97 л.с. Инжектор. Цилиндров 2/V-образное. Тактов 4. 6 передач. Привод Ремень"
+      },
+      {
+        "id": 3,
+        "avatar": "o6.jpg",
+        "images": ["min1.jpg", "min2.jpg", "min3.jpg"],
+        "name": "Minsk (Минск) C4 300",
+        "price": "250 000 rub",
+        "issue": "2021 year of issue",
+        "mileage": "12 000 kilometers",
+        "description": "Мотоцикл с ПТС и гарантией."
+      },
+      {
+        "id": 4,
+        "avatar": "o7.jpg",
+        "images": ["suz1.jpg", "suz2.jpg"],
+        "name": "Suzuki Intruder VS 750",
+        "price": "200 000 rub",
+        "issue": "1989 year of issue",
+        "mileage": "37 000 kilometers",
+        "description":
+          "Тип: чоппер. Объем двигателя: 699/747 см³. Максимальная мощность: 63/55 л.с. КПП: механика 5 ступенчатая. Сухая масса: 192 кг. Клиренс: 130 мм Высота по седлу: 830 мм"
+      },
+      {
+        "id": 5,
+        "avatar": "o8.jpg",
+        "images": ["yam1.jpg", "yam2.jpg", "yam3.jpg"],
+        "name": "Yamaha drag star 1100",
+        "price": "300 000 rub",
+        "issue": "1995 year of issue",
+        "mileage": "26 000 kilometers",
+        "description":
+          "Тип: Чоппер/круизер.Объем двигателя: 1063 см³Максимальная мощность: 62 л.с. КПП: механика 5 ступенчатая. Снаряженная масса: 260 кг. Высота по седлу: 690 мм"
+      }
+    ]
